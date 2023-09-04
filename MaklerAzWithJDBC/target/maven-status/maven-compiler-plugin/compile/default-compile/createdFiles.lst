@@ -1,0 +1,8 @@
+az\makler\dao\impl\ElanDaoImpl.class
+az\makler\dao\inter\ElanDaoInter.class
+az\makler\maklerazwithjdbs\MaklerAzWithJDBS.class
+az\makler\config\Context.class
+az\makler\entity\Elan.class
+az\makler\config\AbstractDao.class
+az\makler\entity\Agentlik.class
+az\makler\entity\Category.class
